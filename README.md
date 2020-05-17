@@ -57,6 +57,7 @@ Sara , Johnson
 
 ## Project Files
 
-Main file in this repository:
+Main files in this repository:
 * **Project_1B_Project_Template.ipynb:** Contains the ETL for pre-processing the datafiles and the development of the Apache Cassandra database.
+* **event_datafile_new.csv:** Generated from pre-processing the datafiles in the event_data folder.
 
